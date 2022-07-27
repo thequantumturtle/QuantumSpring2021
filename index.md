@@ -9,7 +9,7 @@ menuPosition: 1
 <img src="{{ site.baseurl }}/style/books_header.jpg" width="100%">
 
 Tuesday and Thursday (8:20am to 9:40am EST @ remote)   
-Rita Singh, Daniel Justice, Bhiksha Raj, Martin Bruder
+Rita Singh, [Daniel Justice](https://thequantumturtle.github.io/), Bhiksha Raj, Martin Bruder
 
 
 ## Location
